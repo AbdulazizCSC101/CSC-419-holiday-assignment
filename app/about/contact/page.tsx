@@ -21,7 +21,9 @@ export default function Contact() {
       <section className='max-w-6xl mx-auto px-4 py-24 space-y-20'>
         {/* MAIN CTA */}
         <div className='text-center mt-10 space-y-8'>
-          <h1 className={`text-xl font-bold text-gray-900 ${sigmar.className}`}>
+          <h1
+            className={`text-4xl font-bold text-gray-900 ${sigmar.className}`}
+          >
             Let&apos;s build something
             <br />
             <span className=' block text-blue-600'>great together</span>
