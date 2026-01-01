@@ -136,7 +136,7 @@ export default function Aboutlayout({
 
       {/* FOOTER */}
       <footer
-        className={` mt-4 border-t border-gray-200 dark:border-gray-800 bg-white text-center text-sm text-gray-500 py-4 ${montserrat.className}`}
+        className={` border-t border-gray-200 dark:border-gray-800 bg-white text-center text-sm text-gray-500 py-4 ${montserrat.className}`}
       >
         © {new Date().getFullYear()} Abdulaziz Ibrahim
       </footer>
